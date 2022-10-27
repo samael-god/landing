@@ -1,1 +1,1 @@
-# landing
+# Small landing page project
